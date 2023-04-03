@@ -7,7 +7,6 @@ data
 *.crt
 *.key
 *.env
-package-lock.json
 
 ### Vim ###
 # swap
@@ -101,3 +100,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+memory
